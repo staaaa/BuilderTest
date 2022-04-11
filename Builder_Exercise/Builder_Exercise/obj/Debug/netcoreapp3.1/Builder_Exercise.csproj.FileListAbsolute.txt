@@ -1,0 +1,13 @@
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/bin/Debug/netcoreapp3.1/Builder_Exercise.deps.json
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/bin/Debug/netcoreapp3.1/Builder_Exercise.runtimeconfig.json
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/bin/Debug/netcoreapp3.1/Builder_Exercise.runtimeconfig.dev.json
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/bin/Debug/netcoreapp3.1/Builder_Exercise.dll
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/bin/Debug/netcoreapp3.1/Builder_Exercise.pdb
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.csproj.AssemblyReference.cache
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.AssemblyInfoInputs.cache
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.AssemblyInfo.cs
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.csproj.CoreCompileInputs.cache
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.dll
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.pdb
+/Users/stachu/Projects/Builder_Exercise/Builder_Exercise/obj/Debug/netcoreapp3.1/Builder_Exercise.genruntimeconfig.cache
